@@ -1,0 +1,2 @@
+# Test javascript weird behavior
+
